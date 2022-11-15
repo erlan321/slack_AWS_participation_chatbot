@@ -13,6 +13,8 @@ The documentation for creating the Bot credentials, creating the AWS Lambda Func
   https://docs.google.com/document/d/11PJOHlkSetp_17w3eq4JKHlyw0Bi-byxRICf2rIkaSc/edit?usp=sharing 
   
  This Github repository contains the two files needed for the AWS Slack Chatbot to work:
+ 
+ https://github.com/erlan321/slack_AWS_participation_chatbot
   - The primary lambda_function.py code that runs the bot.
   - A sample credentials.json file that would contain your own Bot's credentials in the same format as the one shown.
   
